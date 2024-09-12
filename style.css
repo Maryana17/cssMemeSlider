@@ -31,7 +31,7 @@ header {
     display: grid;
     grid-auto-flow: column;
     grid-auto-columns: 1fr;
-    width: 400%;
+    width: 500%;
     position: relative;
    
 }
